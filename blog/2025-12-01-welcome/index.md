@@ -1,7 +1,7 @@
 ---
 slug: why-you-should-use-ressonance
 title: Welcome to ressonance
-authors: [slorber, yangshun]
+authors: [jlemos, vtrgomes]
 tags: [facebook, hello, docusaurus]
 date: 2025-12-01
 ---

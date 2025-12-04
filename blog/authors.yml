@@ -1,25 +1,21 @@
-yangshun:
-  name: Victor Gomes
+vtrgomes:
+  name: Victor Gazotti
   title: Laravel FullStack Developer
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+  url: https://linkedin.com/in/victor-gazotti
+  image_url: https://github.com/arkanius.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    x: Ark4nius
+    linkedin: victor-gazotti
+    github: Arkanius
 
-slorber:
+jlemos:
   name: Leonardo Lemos
   title: Laravel FullStack Developer, Websockets Specialist
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+  url: https://leonardolemos.com.br/
+  image_url: https://github.com/jleonardolemos.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: jleonardolemos
+    linkedin: jleonardolemos
+    github: jleonardolemos

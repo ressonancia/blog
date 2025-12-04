@@ -1,7 +1,7 @@
 ---
 slug: why-you-should-use-websockets
 title: Why you should use websockets in 2026
-authors: [slorber, yangshun]
+authors: [jlemos, vtrgomes]
 tags: [websockets, websocket, web-socket]
 date: 2025-12-02
 ---

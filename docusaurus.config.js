@@ -2,15 +2,16 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ressonance Blog',
+  title: 'Ressonance',
   tagline: 'Websockets made cheap, easy and fast',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   future: {
     v4: true,
   },
 
   // url: 'https://blog.ressonance.com',
+  // baseUrl: '/',
   url: 'https://ressonancia.github.io',
   baseUrl: '/',
   organizationName: 'ressonancia',

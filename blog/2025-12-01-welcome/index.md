@@ -1,8 +1,9 @@
 ---
-slug: welcome
-title: Welcome
+slug: why-you-should-use-ressonance
+title: Welcome to ressonance
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
+date: 2025-12-01
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).

@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+websockets:
+  label: Websockets
+  permalink: /websockets
+  description: Websockets

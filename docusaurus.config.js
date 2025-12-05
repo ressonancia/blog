@@ -12,8 +12,6 @@ const config = {
 
   url: 'https://blog.ressonance.com',
   baseUrl: '/',
-  // url: 'https://ressonancia.github.io',
-  // baseUrl: '/blog',
   organizationName: 'ressonancia',
   projectName: 'ressonance-blog',
   trailingSlash: false,
@@ -41,6 +39,12 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+
+        gtag: {
+          trackingID: 'G-YQ2T3YF2JV',
+          anonymizeIP: true,
+        },
+
         theme: {
           customCss: './src/css/custom.css',
         },

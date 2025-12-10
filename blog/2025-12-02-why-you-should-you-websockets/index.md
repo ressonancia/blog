@@ -16,8 +16,8 @@ Real-time features are no longer optional. But for Laravel devs, WebSockets are 
 
 1. Introduction
 
-   * The uncopyable perspective: WebSockets for Laravel devs are still painful in 2026
-   * Why I wrote this post: after years building Laravel apps, I had enough
+   * WebSockets for Laravel devs are still painful in 2026
+   * after years building Laravel apps, I had enough
 
 2. What Are WebSockets? (Quick refresher)
 

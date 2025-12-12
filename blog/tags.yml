@@ -22,3 +22,8 @@ websockets:
   label: Websockets
   permalink: /websockets
   description: Websockets
+
+websocket-as-a-service:
+  label: Websocket as a Service
+  permalink: /websocket-as-a-service
+  description: Websocket as a Service

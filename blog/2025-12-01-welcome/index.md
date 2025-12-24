@@ -1,5 +1,5 @@
 ---
-slug: why-you-should-use-ressonance
+slug: welcome-to-ressonance
 title: Welcome to ressonance
 authors: [jlemos, vtrgomes]
 tags: [websocket, websocket-as-a-service]

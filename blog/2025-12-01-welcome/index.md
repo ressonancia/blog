@@ -41,7 +41,7 @@ While the platform has grown beyond its original scope, that foundation still sh
 One of our core values is transparency.
 
 * We build Ressonance in public
-* We openly share progress, decisions, and challenges on Twitter: [@RessonanceCom](x.com/Ressonancecom)
+* We openly share progress, decisions, and challenges on Twitter: [@RessonanceCom](https://x.com/Ressonancecom)
 * Our entire codebase is open source
 
 This means you can see exactly how things work, how decisions are made, and where the platform is going. No black boxes. No hidden behavior. No vendor lock-in surprises.

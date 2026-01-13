@@ -27,3 +27,18 @@ websocket-as-a-service:
   label: Websocket as a Service
   permalink: /websocket-as-a-service
   description: Websocket as a Service
+
+laravel:
+  label: Laravel
+  permalink: /laravel
+  description: laravel
+
+open source:
+  label: Open source
+  permalink: /open-source
+  description: open source
+
+build in public:
+  label: Build In Public
+  permalink: /build-in-public
+  description: Build in Public

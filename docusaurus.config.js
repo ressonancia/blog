@@ -54,7 +54,15 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+
     ({
+      metadata: [
+        { name: 'og:title', content: 'Ressonance - Websockets made easy' },
+        { name: 'og:description', content: 'Ressonance - The easy and cheapest way to run your websockets' },
+        { name: 'og:image', content: 'img/docusaurus-social-card.jpg' },
+        { name: 'twitter:card', content: 'img/docusaurus-social-card.jpg' }, // Or 'summary'
+        { name: 'twitter:image', content: 'img/docusaurus-social-card.jpg' },
+      ],
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
@@ -115,7 +123,8 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-    }),
+    }
+    ),
 };
 
 export default config;

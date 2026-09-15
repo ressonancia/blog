@@ -3,7 +3,7 @@ slug: websockets-at-the-os-level
 title: "WebSockets at the OS Level: File Descriptors, Epoll, Buffers, and Kernel Tuning"
 authors: [vtrgomes]
 tags: [websockets, backend, laravel, open source]
-date: 2026-03-01
+date: 2026-09-15
 description: A deep dive into WebSockets at the Operating System level. Learn how Linux handles millions of persistent TCP connections, file descriptors, epoll event loops, socket buffers, and kernel sysctl tuning.
 keywords:
   - websockets os level
